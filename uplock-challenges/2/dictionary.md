@@ -14,6 +14,29 @@
 ### 2 - abbreviation `/əˌbriːviˈeɪʃən/ ` - noun 
 ##### DEFINITION [countable]: a short way or form to write or say a word expression or name Mr. is the abbreviation for Mister.
 ##### DEFINITION [uncountable]: the act of abbreviating something
+
+### 3 - ABC's `/eibi'siz/` - noun
+##### DEFINITION : the letters of the English alphabet 
+- present continouos
+	- she learning her ABC's
+### 4 - abdomen `/aebdaman/` - noun
+##### DEFINITION : the front part of you body between your chest and your legs
+##### DEFINITION : the part of the body of a vertebrate containig the digestive organs; the belly, in humans and other mammals, it is bounded by the diaphagm and the pelvis
+
+### 5 - ability `/əˈbɪləti/` - noun
+##### DEFINITION : the state of being able to do something
+- present
+	- the ability to walk
+	- the health center server all patients, regardless of
+	their ability to pay
+##### DEFINITION : when someone can do something successfully
+-present
+	- the teacher must have the abillity to keep students interested
+	- she lost the ability to walk after a car accident
+##### DEFINITION : someone's level of skill at doing someting
+- present
+	- the test measures your mathematical ability
+
 # [B]
 # [C]
 # [D]
