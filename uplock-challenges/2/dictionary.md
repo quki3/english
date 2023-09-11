@@ -2,7 +2,7 @@
 ### 1 - abandon `/əˈbændən/` - verb
 ##### DEFINITION : to leave someone or something that you are responsible for 
 - present 
-	- I `abandon` this place , you `abandon` our child, he/she/it `abandons` her own child, we `abandon` our own city, you `abandon` this class, they `abandon` me.
+- I `abandon` this place , you `abandon` our child, he/she/it `abandons` her own child, we `abandon` our own city, you `abandon` this class, they `abandon` me.
 - preterite
 	- I was `abandoned` in this place, you was `abandoned` in april ,he/she/it was `abandoned` by its mother,
 
@@ -23,20 +23,41 @@
 ##### DEFINITION : the front part of you body between your chest and your legs
 ##### DEFINITION : the part of the body of a vertebrate containig the digestive organs; the belly, in humans and other mammals, it is bounded by the diaphagm and the pelvis
 
-### 5 - ability `/əˈbɪləti/` - noun
-##### DEFINITION : the state of being able to do something
+### 5 - [ ABILITY ] `/əˈbɪləti/` - noun
+##### definition : the state of being able to do something
 - present
 	- the ability to walk
 	- the health center server all patients, regardless of
 	their ability to pay
-##### DEFINITION : when someone can do something successfully
+##### definition : when someone can do something successfully
 -present
 	- the teacher must have the abillity to keep students interested
 	- she lost the ability to walk after a car accident
-##### DEFINITION : someone's level of skill at doing someting
+##### definition : someone's level of skill at doing someting
 - present
 	- the test measures your mathematical ability
 
+### 6 - [ ABLE ] `/ˈeɪbəl/` - adjetive
+##### definition : be able to do something
+- present
+	- one of my more able students
+	- an able assistant
+##### definition : having the oportunity to do something
+- simple past 
+	- he was able to read Greek at the age of eight
+##### definition : having considerable skill, proficiency or intelligence
+- simple past
+	- the dancers were technically very able
+#### \synonyms\ -
+- `intelligent` `clever` `brillant` `talented` `accomplished` `adroit` `adept` `capable` `skillful` `skilled` `gifted` `masterly` `virtuoso` `expert` `proeficient` `apt` `good` `fit` `suitable` 
+
+### 7 - [ ABOARD ] `/əˈbɔːd $ əˈbɔːrd/ ` - adverbio, preposition
+##### definition : on or onto a ship or plane, train etc.
+- present 
+	- are all the passager aboard? (adverb)
+	- welcome `aboard` (adverb) 
+- simple past
+	- they finally went aboard the plane (preposition)
 # [B]
 # [C]
 # [D]
