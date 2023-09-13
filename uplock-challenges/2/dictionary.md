@@ -78,6 +78,13 @@
 
 # [D]
 # [E]
+### [ exert ] `` verb
+##### definition : apply on bring to bear (a force, influence, or quality)
+- present
+  	- the moon exerts a force on the eart
+- simple past
+  	- I exerted a force on the table
+##### \sinonymous\ `bring to bear` `apply`
 # [F]
 # [G]
 ### [ GLANCE ] `` verb
