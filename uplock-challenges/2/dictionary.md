@@ -80,6 +80,15 @@
 # [E]
 # [F]
 # [G]
+### [ GLANCE ] `` verb
+##### definition : take a brief or hurried look
+- present
+  	- sole `glance` at her watch
+- simple past
+  	- sole `glanced` at her watch
+- present continouos
+  	- I'm glancing my watch
+##### \sinomyms\ `take a quick look` `look briefly`
 # [H]
 
 
