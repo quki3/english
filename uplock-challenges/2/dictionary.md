@@ -83,6 +83,7 @@
 ### [ GLANCE ] `` verb
 ##### definition : take a brief or hurried look
 - present
+  	- at first glance
   	- sole `glance` at her watch
 - simple past
   	- sole `glanced` at her watch
