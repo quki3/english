@@ -1,25 +1,25 @@
 # [A]
-### 1 - abandon `/əˈbændən/` - verb
-##### DEFINITION : to leave someone or something that you are responsible for 
+### 1 - [ ABANDON ]`/əˈbændən/` - verb
+##### definition : to leave someone or something that you are responsible for 
 - present 
 - I `abandon` this place , you `abandon` our child, he/she/it `abandons` her own child, we `abandon` our own city, you `abandon` this class, they `abandon` me.
 - preterite
 	- I was `abandoned` in this place, you was `abandoned` in april ,he/she/it was `abandoned` by its mother,
 
-##### DEFINITION : to go away from a place, vehicle etc. permanently, especially because the situation makes it impossible for you to stay
+##### definition : to go away from a place, vehicle etc. permanently, especially because the situation makes it impossible for you to stay
 - infinitive
 	- I had to `abandon` she, you had to `abandon` the car,he/she/it had to `abandon` the city, we had `to abandon` the car and walk the rest of the way.
 
 
-### 2 - abbreviation `/əˌbriːviˈeɪʃən/ ` - noun 
+### 2 - [ ABBREVIATION ] `/əˌbriːviˈeɪʃən/ ` - noun 
 ##### DEFINITION [countable]: a short way or form to write or say a word expression or name Mr. is the abbreviation for Mister.
-##### DEFINITION [uncountable]: the act of abbreviating something
+##### definition [uncountable]: the act of abbreviating something
 
-### 3 - ABC's `/eibi'siz/` - noun
-##### DEFINITION : the letters of the English alphabet 
+### 3 - [ ABC's ] `/eibi'siz/` - noun
+##### definition : the letters of the English alphabet 
 - present continouos
 	- she learning her ABC's
-### 4 - abdomen `/aebdaman/` - noun
+### 4 - [ ABDOMEN ]`/aebdaman/` - noun
 ##### DEFINITION : the front part of you body between your chest and your legs
 ##### DEFINITION : the part of the body of a vertebrate containig the digestive organs; the belly, in humans and other mammals, it is bounded by the diaphagm and the pelvis
 
@@ -58,8 +58,24 @@
 	- welcome `aboard` (adverb) 
 - simple past
 	- they finally went aboard the plane (preposition)
+
+### 8 - [ ABOLISH ] `/əˈbɒlɪʃ $ əˈbɑː-/` - verb
+##### definition : to make a law to end something
+- simple past
+	- the governament abolished slavery long ago
+##### to officially and a law, system etc, especially one that has existed for a long time
 # [B]
 # [C]
+### [ CUMBERSOME ] `/ˈkʌmbəsəm $ -bər-/` adjective 
+##### definition : a process or system that is slow and difficult
+- present continouos
+  	- Doctors are complaining that the system is cumbersome and bureaucratic.
+##### definition : large or heavy and therefore difficult to carry or use
+- present simple
+  	- However, that notation is cumbersome
+#### \sinonyms\ -
+- `unmanageable` `inconvenient` `incommodious` `unconfortable
+
 # [D]
 # [E]
 # [F]
