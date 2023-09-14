@@ -64,6 +64,11 @@
 - simple past
 	- the governament abolished slavery long ago
 ##### to officially and a law, system etc, especially one that has existed for a long time
+
+### 9 - [ abolition ] `/ˌæbəˈlɪʃən/` noun
+##### definition : when a law is made to end something or to make something illegal
+- present
+  	- the abolition of slavery in the 1860s
 # [B]
 # [C]
 ### [ CUMBERSOME ] `/ˈkʌmbəsəm $ -bər-/` adjective 
