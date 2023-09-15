@@ -141,3 +141,18 @@
 - `dubious` `doubtful` `having reservations` `taking something with a pinch of salt` doubting` questioning` `cynical` `distrustful` `mistrustful` `suspicious` `disbelieving` `misbelieving` `unconvinced` `incredulous` `hesitant` `scoffing` `pessimistic` `defeatist` 
 - informal: `iffy` 
 - rare: `pyrrhonist` `minimifidian`
+# [T]
+### [ THRUST ] `/θrʌst/` verb
+##### definition : to push something somewhere roughly
+- she thrust a letter into my hand
+- he thrust me roughly towards the door
+##### definition : to make a sudden movement forward with a sword or knife
+- simple past
+  	- he skipped aside as his opponent thrust at him
+##### \sinonyms\ `force` `push`
+# [U]
+# [V]
+# [w]
+# [X]
+# [Y]
+# [Z]
