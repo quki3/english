@@ -65,10 +65,17 @@
 	- the governament abolished slavery long ago
 ##### to officially and a law, system etc, especially one that has existed for a long time
 
-### 9 - [ abolition ] `/ˌæbəˈlɪʃən/` noun
+### 9 - [ ABOLITION ] `/ˌæbəˈlɪʃən/` noun
 ##### definition : when a law is made to end something or to make something illegal
 - present
   	- the abolition of slavery in the 1860s
+ 
+### [ ABORTION ] `/əˈbɔːʃən $ əˈbɔːr-/` noun
+##### definition : wehn someone ends a pregnancy so that the baby is never born.
+
+##### definition : the determinate termination of a human pregnancy most ofthen performed during the first 28 weeks of pregnancy
+- present
+  	- concens such as abortion an euthanacia.
 # [B]
 # [C]
 ### [ CUMBERSOME ] `/ˈkʌmbəsəm $ -bər-/` adjective 
