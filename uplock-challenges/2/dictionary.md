@@ -113,6 +113,8 @@
 
 # [D]
 # [E]
+### [ ENGAGE ] `` verb
+##### definition : 
 ### [ exert ] `` verb
 ##### definition : apply on bring to bear (a force, influence, or quality)
 - present
