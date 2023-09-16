@@ -76,6 +76,29 @@
 ##### definition : the determinate termination of a human pregnancy most ofthen performed during the first 28 weeks of pregnancy
 - present
   	- concens such as abortion an euthanacia.
+### [ ABOUT ] `/əˈbaʊt/` 1 adverb, 2 preposition.
+##### definition 1 : conserning or relating to a particular subject
+- present
+  	- a book about politics
+  	- she say sometong about living town
+- simple past
+  	- he lied about his eyes
+##### definition 1 : used to show why someone is angry, happy, upset, etc.
+- present
+  	- I'm really worried about jack
+  	- she's upset about missing the party
+##### definition 1 : in many diferent direcction within a particular place or in diferent parts of a place `SINONYMS` `around` `round`
+- present
+  	- we spent a wole afternoon walking about town
+- simple past
+  	- the book were scattered about the room
+##### definition 2 : a litle more or less than a particular number, amount, or size `SINONYMS` `rougly` `approximately`
+- present
+  	- I live about 10 miles away
+  	- a tiny computer about as big as a postcard
+- preterite
+  	- we left the restaurant at round about 10:30
+
 # [B]
 # [C]
 ### [ CUMBERSOME ] `/ˈkʌmbəsəm $ -bər-/` adjective 
