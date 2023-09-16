@@ -98,7 +98,7 @@
   	- a tiny computer about as big as a postcard
 - preterite
   	- we left the restaurant at round about 10:30
-
+### [ ACQUAINTANCES ]
 # [B]
 # [C]
 ### [ CUMBERSOME ] `/ˈkʌmbəsəm $ -bər-/` adjective 
