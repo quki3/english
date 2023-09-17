@@ -70,13 +70,13 @@
 - present
   	- the abolition of slavery in the 1860s
  
-### [ ABORTION ] `/əˈbɔːʃən $ əˈbɔːr-/` noun
+### - 10 [ ABORTION ] `/əˈbɔːʃən $ əˈbɔːr-/` noun
 ##### definition : wehn someone ends a pregnancy so that the baby is never born.
 
 ##### definition : the determinate termination of a human pregnancy most ofthen performed during the first 28 weeks of pregnancy
 - present
   	- concens such as abortion an euthanacia.
-### [ ABOUT ] `/əˈbaʊt/` 1 adverb, 2 preposition.
+### - 11 [ ABOUT ] `/əˈbaʊt/` 1 adverb, 2 preposition.
 ##### definition 1 : conserning or relating to a particular subject
 - present
   	- a book about politics
@@ -98,6 +98,12 @@
   	- a tiny computer about as big as a postcard
 - preterite
   	- we left the restaurant at round about 10:30
+### - 12 [ ABROAD ] `` adverb
+##### definition : in or to a foreign country.
+- present continouos
+  	- My brother is studying abroad.
+  	- have you ever been abroad.
+  	- I've never lived abroad before
 ### [ ACQUAINTANCES ]
 # [B]
 # [C]
