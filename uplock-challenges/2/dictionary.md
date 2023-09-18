@@ -12,7 +12,7 @@
 
 
 ### 2 - [ ABBREVIATION ] `/əˌbriːviˈeɪʃən/ ` - noun 
-##### DEFINITION [countable]: a short way or form to write or say a word expression or name Mr. is the abbreviation for Mister.
+##### definition [countable]: a short way or form to write or say a word expression or name Mr. is the abbreviation for Mister.
 ##### definition [uncountable]: the act of abbreviating something
 
 ### 3 - [ ABC's ] `/eibi'siz/` - noun
@@ -20,8 +20,8 @@
 - present continouos
 	- she learning her ABC's
 ### 4 - [ ABDOMEN ]`/aebdaman/` - noun
-##### DEFINITION : the front part of you body between your chest and your legs
-##### DEFINITION : the part of the body of a vertebrate containig the digestive organs; the belly, in humans and other mammals, it is bounded by the diaphagm and the pelvis
+##### definition : the front part of you body between your chest and your legs
+##### definition : the part of the body of a vertebrate containig the digestive organs; the belly, in humans and other mammals, it is bounded by the diaphagm and the pelvis
 
 ### 5 - [ ABILITY ] `/əˈbɪləti/` - noun
 ##### definition : the state of being able to do something
@@ -98,12 +98,24 @@
   	- a tiny computer about as big as a postcard
 - preterite
   	- we left the restaurant at round about 10:30
-### - 12 [ ABROAD ] `` adverb
+### - 12 [ ABROAD ] `/əˈbrɔːd $ əˈbrɒːd/` adverb
 ##### definition : in or to a foreign country.
 - present continouos
   	- My brother is studying abroad.
   	- have you ever been abroad.
   	- I've never lived abroad before
+##### grammar comparasion
+- you go abroad or study abroad
+- don't use a preposition before abroad `don't say!! - go to abroad | study in abroad`
+- do you go a foreing country or study in a foreing country
+### [ ABRUPT ] `` adjective
+##### definition : sudden and unexpected
+- preterite
+  	- I was surprised by the abrupt change of subject
+  	- It was quite abrupt
+##### definition : brief to the point or rudennes; curt
+- preterite
+  	- you were rather abroupt with that young man
 ### [ ACQUAINTANCES ]
 # [B]
 # [C]
