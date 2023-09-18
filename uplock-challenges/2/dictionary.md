@@ -116,7 +116,8 @@
 ##### definition : brief to the point or rudennes; curt
 - preterite
   	- you were rather abroupt with that young man
-### [ ACQUAINTANCES ]
+### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
+##### definition : someone you know, but isn't a close friend
 # [B]
 # [C]
 ### [ CUMBERSOME ] `/ˈkʌmbəsəm $ -bər-/` adjective 
