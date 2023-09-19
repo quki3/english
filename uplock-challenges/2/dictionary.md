@@ -108,7 +108,7 @@
 - you go abroad or study abroad
 - don't use a preposition before abroad `don't say!! - go to abroad | study in abroad`
 - do you go a foreing country or study in a foreing country
-### [ ABRUPT ] `` adjective
+### [ ABRUPT ] `/əˈbrʌpt/` adjective
 ##### definition : sudden and unexpected
 - preterite
   	- I was surprised by the abrupt change of subject
@@ -116,6 +116,14 @@
 ##### definition : brief to the point or rudennes; curt
 - preterite
   	- you were rather abroupt with that young man
+### [ ABSENCE ] `/ˈæbsəns/` noun
+##### definition : when you are not in the place where people expect you to be, or the time that you are away.
+- preterite
+  	- he work involved repeting absence from home
+##### definition : the lack of something or the fact that it does not exist.
+- present
+  	- a complete absence of any kind of planning
+##### opposite : presence
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
