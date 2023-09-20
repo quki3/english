@@ -209,6 +209,8 @@
   	- he skipped aside as his opponent thrust at him
 ##### \sinonyms\ `force` `push`
 # [U]
+### [ UBIQUITOUS ] `\yo͞oˈbikwədəs\`
+# [U]
 # [V]
 # [w]
 # [X]
