@@ -123,6 +123,11 @@
 ##### definition : the lack of something or the fact that it does not exist.
 - present
   	- a complete absence of any kind of planning
+### [ ABSENT ] `` adjective
+##### definition : not here
+- present
+	- he is absent
+##### definition : not present in a place, at an occasion, or as part of something
 ##### opposite : presence
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
