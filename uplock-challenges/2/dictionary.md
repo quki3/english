@@ -124,12 +124,17 @@
 - present
   	- a complete absence of any kind of planning
 ##### opposite : presence
-### [ ABSENT ] `` adjective
+### [ ABSENT ] `/ˈæbsənt/` adjective
 ##### definition : not here
 - present
 	- he is absent
 ##### definition : not present in a place, at an occasion, or as part of something
 ##### opposite : present
+### [ ABSENTMINDED ] `` adjective
+##### definition : not noticing thing that are happening around you, and often forgetting things
+- present
+  	- Grandad's been getting rather absentminded lately
+##### \synonyms\ : `distracted` `distrait` `abstracted` `bird brained`
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
