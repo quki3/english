@@ -135,6 +135,11 @@
 - present
   	- Grandad's been getting rather absentminded lately
 ##### \synonyms\ : `distracted` `distrait` `abstracted` `bird brained`
+### [ ABSOLUTE ] `` adjective
+##### definition : complete or exact
+- present
+  	- are you telling me the absolute truth
+##### definition : viewed or existing independently and not in relation to other things
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
