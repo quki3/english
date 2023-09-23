@@ -140,6 +140,17 @@
 - present
   	- are you telling me the absolute truth
 ##### definition : viewed or existing independently and not in relation to other things
+### [ ABSOLUTELY ] `/ˈæbsəluːtli, ˌæbsəˈluːtli/` adverb
+##### definition : very, completely and in every way, independiently not viewed in relation to other things or factors
+- present
+  	- It's absolutely beautiful
+  	- are you absolutely sure?
+  	- this cake is absoluely delicious
+### definition : use to emphasize something
+- preterite
+  	- he has absolutely not experience in marketing
+
+
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
