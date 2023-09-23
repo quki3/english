@@ -166,6 +166,7 @@
 - `unmanageable` `inconvenient` `incommodious` `unconfortable
 
 # [D]
+### [ DRIZZLE ]
 # [E]
 ### [ ENGAGE ] `` verb
 ##### definition : 
