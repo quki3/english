@@ -149,7 +149,17 @@
 ### definition : use to emphasize something
 - preterite
   	- he has absolutely not experience in marketing
-
+### [ ABSORB ] `` verb
+##### definition : to take in a liquid, gas or another substance slowly from the surface or space around something
+-present
+	- plant absorb nutrients from the soil
+ 	- water and salts are absorbed into our bloodstream
+##### definition : to learn and undertand something
+- present
+	- I haven't absorbed all the information yet
+##### definition : to interest someone so much that they don't pay atenttion to another things
+- present
+  	- the movement and noice of the machine absorbed him completely
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
