@@ -204,6 +204,10 @@
   	- I'm glancing my watch
 ##### \sinomyms\ `take a quick look` `look briefly`
 # [H]
+### [ HEADING TO ] complex phrases maybe is a type of verb?
+##### definition : moving or traveling towards a particular direction
+- preterite
+  	- sara decided to prioritaze her healthy and fitness by heading to the gym in her neighborhood
 
 
 # [I]
