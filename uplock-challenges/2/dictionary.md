@@ -160,6 +160,10 @@
 ##### definition : to interest someone so much that they don't pay atenttion to another things
 - present
   	- the movement and noice of the machine absorbed him completely
+### [ ABSORBENT ] `` adjective 
+##### able to take in liquid or soack up liquid easily
+- present
+  	- drain on absorbent paper towels
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
