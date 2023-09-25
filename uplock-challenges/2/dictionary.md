@@ -208,7 +208,8 @@
 ##### definition : moving or traveling towards a particular direction
 - preterite
   	- sara decided to prioritaze her healthy and fitness by heading to the gym in her neighborhood
-
+### [ HIT ME UP ] complex phases maybe is a type of verb?
+##### definition : a casual way of asking someone to contact you or get in touch with you 
 
 # [I]
 ### 0 - inquisitive `/ɪnˈkwɪzətɪv/` - adjetive
