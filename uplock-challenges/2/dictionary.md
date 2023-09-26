@@ -160,10 +160,15 @@
 ##### definition : to interest someone so much that they don't pay atenttion to another things
 - present
   	- the movement and noice of the machine absorbed him completely
-### [ ABSORBENT ] `` adjective 
+### [ ABSORBENT ] ` /əbˈsɔːbənt, -ˈzɔː- $ -ɔːr-/` adjective 
 ##### able to take in liquid or soack up liquid easily
 - present
   	- drain on absorbent paper towels
+### [ ABSORBING ] `` adjective
+##### definition : very interesting ,enjoyable and keeping you attention for a  long time
+- present
+  	- an absorbing hobby
+  	-an absorbing novel about the Wild West.
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
