@@ -169,6 +169,12 @@
 - present
   	- an absorbing hobby
   	-an absorbing novel about the Wild West.
+### [ ABSURD ] `/əbˈsɜːd, -ˈzɜːd $ -ɜːrd/` adjective 
+##### definition : extremelly silly, completely stupid or unreasonable
+- present 
+	- It seems quite absurd to expect anyone to drive for 3 hours just for 20 min meeting
+   	- The story was so absurd that no one believed it. 
+
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
