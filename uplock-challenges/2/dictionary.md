@@ -174,7 +174,10 @@
 - present 
 	- It seems quite absurd to expect anyone to drive for 3 hours just for 20 min meeting
    	- The story was so absurd that no one believed it. 
-
+### [ ABUNDANT `` ajective
+##### definition : more than enough in quantity, exist or is availiable in large quantities
+- present
+  	- we have an abundant supply of water
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
