@@ -149,7 +149,7 @@
 ### definition : use to emphasize something
 - preterite
   	- he has absolutely not experience in marketing
-### [ ABSORB ] `` verb
+### [ ABSORB ] ` /əbˈsɔːb, əbˈzɔːb $ -ɔːrb/` verb
 ##### definition : to take in a liquid, gas or another substance slowly from the surface or space around something
 -present
 	- plant absorb nutrients from the soil
@@ -174,10 +174,23 @@
 - present 
 	- It seems quite absurd to expect anyone to drive for 3 hours just for 20 min meeting
    	- The story was so absurd that no one believed it. 
-### [ ABUNDANT `` ajective
+### [ ABUNDANT `/əˈbʌndənt/ ` ajective
 ##### definition : more than enough in quantity, exist or is availiable in large quantities
 - present
   	- we have an abundant supply of water
+### [ ABUSE ] `/əˈbjuːs/` noun verb
+##### definition  noun :wrong or harmful use of something
+- preterite
+  	- we talked about the problem of drug abuse
+##### definition noun : bad or cruel treadment of somenting
+##### definition noun : rude or bad things that are say to someone 
+- preterite
+  	- he shoulded abuse at me
+##### definition verb : to do cruel or violent things to someone
+- present
+  	- several cases of child abuse
+##### definition verb : use to somethings in a wrong or harmful way
+
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
