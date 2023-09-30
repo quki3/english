@@ -191,6 +191,10 @@
   	- several cases of child abuse
 ##### definition verb : use to somethings in a wrong or harmful way
 
+### [ACADEMIC ] `/ˌækəˈdemɪk◂/` adjective
+##### definition : about or relating to work done in schools colages or universities
+- present
+  	- the academic years begins in septermber.
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
