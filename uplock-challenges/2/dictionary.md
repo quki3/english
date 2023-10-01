@@ -200,7 +200,11 @@
 ##### definition : about or relating to work done in schools colages or universities
 - present
   	- the academic years begins in septermber.
-
+### [ ACCENT ] `` noun
+##### definition : a way of speaking that shows that someone come from a particular place
+- present
+  	- I/you/we/they speak with a southern accent.
+  	- he/she/it speaks with a southern accent.
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
