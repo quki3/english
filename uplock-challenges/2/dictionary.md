@@ -135,7 +135,7 @@
 - present
   	- Grandad's been getting rather absentminded lately
 ##### \synonyms\ : `distracted` `distrait` `abstracted` `bird brained`
-### [ ABSOLUTE ] `` adjective
+### [ ABSOLUTE ] `/ˈæbsəluːt/` adjective
 ##### definition : complete or exact
 - present
   	- are you telling me the absolute truth
@@ -188,7 +188,12 @@
   	- he shoulded abuse at me
 ##### definition verb : to do cruel or violent things to someone
 - present
-  	- several cases of child abuse
+  	- several cases of child abuse.
+  	- I/you/we/they abuse drugs today.
+  	- he/she/it abuses water in the party.
+- preterite
+  	- I/you/we/they abused drugs today.
+  	- She was sexually abused at a child.
 ##### definition verb : use to somethings in a wrong or harmful way
 
 ### [ACADEMIC ] `/ˌækəˈdemɪk◂/` adjective
