@@ -2,7 +2,16 @@
 ### 1 - [ ABANDON ]`/əˈbændən/` - verb
 ##### definition : to leave someone or something that you are responsible for 
 - present 
-- I `abandon` this place , you `abandon` our child, he/she/it `abandons` her own child, we `abandon` our own city, you `abandon` this class, they `abandon` me.
+	- I `abandon` this place
+ 	- you `abandon` our child
+  	- he/she/it `abandons` her own child
+  	- we `abandon` our own city
+  	- they `abandon` me.
+- present continouos
+  	- I am abandoning this place
+  	- you are abandoning
+- present perfect
+	- we had to `abandon` the car and walk the rest of the way
 - preterite
 	- I was `abandoned` in this place, you was `abandoned` in april ,he/she/it was `abandoned` by its mother,
 
@@ -13,6 +22,8 @@
 
 ### 2 - [ ABBREVIATION ] `/əˌbriːviˈeɪʃən/ ` - noun 
 ##### definition [countable]: a short way or form to write or say a word expression or name Mr. is the abbreviation for Mister.
+- present
+  	- the BBC is an abbreviation for British Broadcasting Corporation.
 ##### definition [uncountable]: the act of abbreviating something
 
 ### 3 - [ ABC's ] `/eibi'siz/` - noun
@@ -22,6 +33,8 @@
 ### 4 - [ ABDOMEN ]`/aebdaman/` - noun
 ##### definition : the front part of you body between your chest and your legs
 ##### definition : the part of the body of a vertebrate containig the digestive organs; the belly, in humans and other mammals, it is bounded by the diaphagm and the pelvis
+- present
+  	- his lower abdomen was expanding and contracting in a deep regular pattern
 
 ### 5 - [ ABILITY ] `/əˈbɪləti/` - noun
 ##### definition : the state of being able to do something
@@ -200,11 +213,17 @@
 ##### definition : about or relating to work done in schools colages or universities
 - present
   	- the academic years begins in septermber.
-### [ ACCENT ] `` noun
+### [ ACCENT ] `/ˈæksənt $ ˈæksent/` noun
 ##### definition : a way of speaking that shows that someone come from a particular place
 - present
   	- I/you/we/they speak with a southern accent.
   	- he/she/it speaks with a southern accent.
+### [accept] `` verb
+##### definition :to take something that is offered to you
+- present
+  	- will you accept my offer?
+##### definition : to agree that something is true, right or should be done
+
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
