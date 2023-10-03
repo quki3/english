@@ -218,11 +218,16 @@
 - present
   	- I/you/we/they speak with a southern accent.
   	- he/she/it speaks with a southern accent.
-### [accept] `` verb
+### [accept] `/əkˈsept/ ` verb
 ##### definition :to take something that is offered to you
 - present
   	- will you accept my offer?
+- preterite
+  	- He accepted the invitation to stay with us.
 ##### definition : to agree that something is true, right or should be done
+### [acceptable] `` of agood enough quality
+- present
+  	Students who achieve an acceptable standard will progress to degree studies.
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
