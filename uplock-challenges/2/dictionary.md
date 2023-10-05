@@ -230,8 +230,12 @@
   	Students who achieve an acceptable standard will progress to degree studies.
 ### [ ACCEPTANCE ] `/əkˈseptəns/` noun
 ##### definition : when you officially agree to take something that you have been offered.
-- present 
+- present
 	- the formal acceptance of an invitation
+### [ ACCESS ] `` noun
+##### definition : a way of being able to use or do someething
+- present
+  	- Students need access to computers
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
@@ -317,6 +321,11 @@
 - simple past
   	- he skipped aside as his opponent thrust at him
 ##### \sinonyms\ `force` `push`
+### [ TWILIGHT ] `` noun
+##### definition : the small amount of light in the sky as the day ends 
+
+### [ TWILIT ] `/ˈtwaɪlɪt/` adjective 
+##### definition : lit by twilight
 # [U]
 ### [ UBIQUITOUS ] `\yo͞oˈbikwədəs\`
 # [U]
