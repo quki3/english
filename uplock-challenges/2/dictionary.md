@@ -225,17 +225,25 @@
 - preterite
   	- He accepted the invitation to stay with us.
 ##### definition : to agree that something is true, right or should be done
-### [ ACCEPTABLE ] `` of agood enough quality
+### [ ACCEPTABLE ] `əkˈseptəbəl/` adjective
+##### definition : of agood enough quality, good enough to be used for a particular porpose
 - present
   	Students who achieve an acceptable standard will progress to degree studies.
 ### [ ACCEPTANCE ] `/əkˈseptəns/` noun
 ##### definition : when you officially agree to take something that you have been offered.
 - present
 	- the formal acceptance of an invitation
-### [ ACCESS ] `` noun
+### [ ACCESS ] `/ˈækses/ ` noun
 ##### definition : a way of being able to use or do someething
 - present
   	- Students need access to computers
+##### definition : a way to getting to a place
+- present
+  	- there should be access to the building for people in wheelchairs.
+### [ ACCIDENT ] `` noun
+##### definition : something bad; that happens by chance
+- preterite
+  	- it was an accident. 
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
