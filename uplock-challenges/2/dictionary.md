@@ -244,6 +244,8 @@
 ##### definition : something bad; that happens by chance
 - preterite
   	- it was an accident. 
+### [ ACCIDENTAL ] adjective
+##### definition : not planned, but happenig by chance
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
