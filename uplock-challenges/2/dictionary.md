@@ -247,6 +247,11 @@
 ### [ ACCIDENTAL ] adjective
 ##### definition : not planned, but happenig by chance
 
+### [ ACCIDENTALLY ] `` adverb
+##### definition: If you do something accidentally, you do it  with out intending to.
+- present
+  	- I accidentally left my keys in the car
+
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
