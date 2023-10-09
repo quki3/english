@@ -251,6 +251,16 @@
 ##### definition: If you do something accidentally, you do it  with out intending to.
 - present
   	- I accidentally left my keys in the car
+### [ ACCOMMODATE ] `/əˈkɒmədeɪt $ əˈkɑː-/` verb
+##### definition: to have enough apace for something
+- present continouos
+  	- I am accommodating mi life
+- futuro simple
+  	- the room will `accommodate` fifty people
+##### definition : to give someone a place where they can live o stay
+- preterite
+  	- I `accommodated` near the place were I work
+
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
