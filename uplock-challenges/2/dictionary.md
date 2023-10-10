@@ -260,8 +260,10 @@
 ##### definition : to give someone a place where they can live o stay
 - preterite
   	- I `accommodated` near the place were I work
-
-
+### [ ACCOMMODATION ] `/əˌkɒməˈdeɪʃən $ əˌkɑː-/` noun 
+##### definition : a place were you can live or stay
+- present
+  	- accommodation is provided for all new students.
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
