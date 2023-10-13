@@ -264,6 +264,10 @@
 ##### definition : a place were you can live or stay
 - present
   	- accommodation is provided for all new students.
+### [ ACCOMPANY ] `/əˈkʌmpəni/`
+##### definition to go somewhere with someone one
+- present
+  	- children under 14 must by accompanied by an adult
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
