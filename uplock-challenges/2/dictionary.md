@@ -268,6 +268,14 @@
 ##### definition to go somewhere with someone one
 - present
   	- children under 14 must by accompanied by an adult
+### [ ACCOMPLISH ] `əˈkʌmplɪʃ $ əˈkɑːm-, əˈkʌm-/ ` verb
+##### definition : to do something succesfully.
+- present
+  	- we acommplish a lot during the day.
+##### definition : to succed in doing something, especially after trying very hard.
+- preterite perfect
+  	we have accomplished all we set out to do.
+
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
