@@ -282,6 +282,11 @@
 ### [ ACCORD ] `` noun
 ##### definition :a situation in which two people, ideas, or statements agree with each other.
 
+### [ ACCORDINGLY ] `` preposition
+##### definition : in a way that is suitable for a particular situation
+- present
+  	- If you do something wrong, you'll be punished accordingly
+
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
