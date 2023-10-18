@@ -286,6 +286,10 @@
 ##### definition : in a way that is suitable for a particular situation
 - present
   	- If you do something wrong, you'll be punished accordingly
+### [ ACCORDING TO] `` preposition
+##### definition : because of what someone say or what something shows
+- present
+  	- according to the map we are very close to the lake
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
