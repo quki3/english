@@ -290,6 +290,10 @@
 ##### definition : because of what someone say or what something shows
 - present
   	- according to the map we are very close to the lake
+### [ ACCOUNT ] `` noun
+##### definition : an amount of money you keep in a bank
+##### definition : a story or description 
+##### definition : a report of description of an event or experience
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
