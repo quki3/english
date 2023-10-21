@@ -295,6 +295,9 @@
 ##### definition : a story or description 
 ##### definition : a report of description of an event or experience
 
+### [ ACCOUNTANT ] `/əˈkaʊntənt/` noun
+##### definition : someone whose job is to keep records of the money check financial account, spent or received by a person or a company.
+
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
