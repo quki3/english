@@ -298,6 +298,14 @@
 ### [ ACCOUNTANT ] `/əˈkaʊntənt/` noun
 ##### definition : someone whose job is to keep records of the money check financial account, spent or received by a person or a company.
 
+### [ ACCURACY ] `` noun
+##### definition : the quality of being exactly right or correct.
+
+### [ ACCURATE ] `` adjective
+##### correct or exact: an accurate descriptioin of the events.
+- present
+  	- the figures aren't very accurate
+
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
 # [B]
