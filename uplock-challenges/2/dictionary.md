@@ -305,6 +305,23 @@
 ##### correct or exact: an accurate descriptioin of the events.
 - present
   	- the figures aren't very accurate
+### [ ACCUSATION ] `` noun
+##### definition : a statement saying that someone has done something wrong.
+
+### [ ACCUSE ] `` verb (accusing, accused)
+##### definition : to say that someone has done something wrong.
+
+### [ ACCUSTOMED ] `` adjective
+##### definition : be accustomed to something to think that something is normal or usual especially because you do it a lot or know it well 
+
+### [ ACHE ] `` noun
+##### a continuous pain
+
+### [ ACHIEVE ] `` verb
+##### definition : to succed in doing something, especially by working hard
+
+### [ ACHIEVEMENT ] `` verb
+something that you have worked hard for and done well
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
@@ -325,7 +342,7 @@
 # [E]
 ### [ ENGAGE ] `` verb
 ##### definition : 
-### [ exert ] `` verb
+### [ EXERT ] `` verb
 ##### definition : apply on bring to bear (a force, influence, or quality)
 - present
   	- the moon exerts a force on the eart
