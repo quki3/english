@@ -1,7 +1,7 @@
 # [A]
 ### 1 - [ ABANDON ]`/əˈbændən/` - verb
 ##### definition : to leave someone or something that you are responsible for 
-- present 
+- present
 	- I `abandon` this place
  	- you `abandon` our child
   	- he/she/it `abandons` her own child
@@ -321,7 +321,10 @@
 ##### definition : to succed in doing something, especially by working hard
 
 ### [ ACHIEVEMENT ] `` verb
-something that you have worked hard for and done well
+##### definition : something that you have worked hard for and done well
+
+### [ ACID ] `ˈæsɪd` noun 
+##### definition : a chemical subtance that can burn things
 
 ### [ ACQUAINTANCES ] `/əˈkweɪntəns/` noun
 ##### definition : someone you know, but isn't a close friend
